@@ -3,7 +3,7 @@
 ### How to use
 
 1. Go to [Reactive Resume](https://rxresu.me) and make an account (or [self-host](https://hub.docker.com/r/amruthpillai/reactive-resume) it) 
-2. populate fields with resume data
+2. Populate fields with resume data
 3. If editing, download .json file from this repo and upload to resume builder before editing
 4. Download .json and .pdf files when done
 5. Push both files to this git repo (version control)
